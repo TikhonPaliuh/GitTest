@@ -5,11 +5,14 @@ body {
     text-decoration: 0;
 }
 
-h2 {
+p {
     color: blueviolet;
     font-size: 26px;
 }
 
 .Header {
     padding-top: 10px;
+    display: block;
+    border: 5px inset black;
 }
+
