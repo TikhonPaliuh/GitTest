@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 26px;
+}
+
+.Header {
+    padding-top: 10px;
+}
